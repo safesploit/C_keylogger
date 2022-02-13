@@ -40,3 +40,10 @@ Win32 applications will run on 64-bit Windows due to WoW64.
 **Wrapping, encoding or encrpytion for AV evasion are NOT included!**
 
 # Preview Images
+
+## Demonstration of Privileges
+<img width="452" alt="image1" src="https://user-images.githubusercontent.com/10171446/153768134-2e3623f6-7733-469f-a2af-d84920e42490.PNG">
+
+## Unwrapped Compiled Malware
+
+<img width="592" alt="image2" src="https://user-images.githubusercontent.com/10171446/153768151-4e5271eb-ae03-4dd4-aec8-d0b73af78a08.PNG">
